@@ -1,5 +1,9 @@
 [
     {
+        "id":"0",
+        "name":"All Category"
+    },
+    {
         "id":"1",
         "name":"Cereals"
     },

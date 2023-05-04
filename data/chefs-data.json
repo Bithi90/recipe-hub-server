@@ -2,67 +2,235 @@
 [
     { 
         "id":"11221",
-        "chefs-img":"https://ibb.co/YDP0Wnw",
-        "name":"Chef Martin Yan",
-        "likes":"435",
-        "years-of-experience":"12 years",
-        "number-of-recipe":"109",
-        "chefs-bio":"Martin Yan was born in Guangzhou, China, and began cooking at the age of 12. His father was in the restaurant business and Yan picked up the culinary arts through the family. He went to college in Hong Kong to earn a degree in culinary arts."
+        "chefs_img":"https://imagizer.imageshack.com/img923/998/nEMJHP.jpg",
+        "name":"Chef Joyce Chen",
+        "category_id":"1",
+        "likes":"435 ",
+        "years_of_experience":"12 years of cooking experience",
+        "number_of_recipe":"109 recipes",
+        "details":"Joyce Chen was credited with popularizing northern-style Chinese cuisine in the United States, coining the name Peking Raviolis for potstickers, inventing and holding a design patent for a flat bottom wok with handle (also known as a stir fry pan), and developing the first line of bottled Chinese stir fry sauces for the US market.",
+        "recipes":[
+            {
+                "_id":"01",
+                "recipe_name":"Honey Garlic Chicken Bites",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"one lbs boneless skinless chicken thighs or breasts, cut into one inch cubes one Tbsp cooking oil one Tbsp cooking sherry tow Tbsp soy sauce tow Tbsp corn starch",
+                "recipe_img":"https://imagizer.imageshack.com/img923/5469/xgmARv.jpg"
+            },
+            {
+                "_id":"02",
+                "recipe_name":"Philly Cheesesteak Stuffed Peppers ",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"cups flour  beer chili powder garlic powder cumin blackpepper oil for frying tortillas avocado pico de gallo chipotle mayo",
+                "recipe_img":"https://imagizer.imageshack.com/img924/6372/CBTOBb.jpg"
+            },
+            {
+                "_id":"03",
+                "recipe_name":"Crack chiken",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"one lbs boneless skinless chicken thighs or breasts, cut into one inch cubes one Tbsp cooking oil one Tbsp cooking sherry tow Tbsp soy sauce tow Tbsp corn starch",
+                "recipe_img":"https://imagizer.imageshack.com/img923/8315/dCfPCN.jpg"
+            }
+        ]
+
 
     },
 
     { 
-        "chefs-img":"https://ibb.co/C55QY0H",
-        "name":"Chef Ken Hom",
+        "chefs_img":"https://imagizer.imageshack.com/img922/2156/12KqTn.png",
+        "name":"Chef Susanna Foo",
         "id":"11222",
+        "category_id":"2",
         "likes":"403",
-        "years-of-experience":"7 years",
-        "number-of-recipe":"129",
-        "chefs-bio":"Chef Ken Hom was born in Guangzhou, China, and began cooking at the age of 12. His father was in the restaurant business and Yan picked up the culinary arts through the family. He went to college in Hong Kong to earn a degree in culinary arts."
+        "years_of_experience":"7 years of cooking experience",
+        "number_of_recipe":"129 recipes",
+        "details":"Susanna Foo is a Chinese chef best known for her work in Chinese/French fusion at her self titled Susanna Foo restaurant in Philadelphia, Pennsylvania. She has also owned and run other restaurants in Philadelphia and Atlantic City, and is a two-time James Beard Foundation Award winner.",
+        "recipes":[
+            {
+                "_id":"01",
+                "recipe_name":"Kung Pao Chicken",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"one lbs boneless skinless chicken thighs or breasts, cut into one inch cubes one Tbsp cooking oil one Tbsp cooking sherry tow Tbsp soy sauce tow Tbsp corn starch",
+                "recipe_img":"https://imagizer.imageshack.com/img923/4348/bMtLez.jpg"
+            },
+            {
+                "_id":"02",
+                "recipe_name":"Baja Fish Tacos",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"cups flour  beer chili powder garlic powder cumin blackpepper oil for frying tortillas avocado pico de gallo chipotle mayo",
+                "recipe_img":"https://imagizer.imageshack.com/img924/4265/fSMMW5.jpg"
+            },
+            {
+                "_id":"03",
+                "recipe_name":"Creamy Lemon Chicken",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"one lbs boneless skinless chicken thighs or breasts, cut into one inch cubes one Tbsp cooking oil one Tbsp cooking sherry tow Tbsp soy sauce tow Tbsp corn starch",
+                "recipe_img":"https://imagizer.imageshack.com/img923/7132/ZKMonn.jpg"
+            }
+        ]
+
+
 
     },
 
     { 
         "id":"11223",
-        "chefs-img":"https://ibb.co/jHYTnMT",
-        "name":"Chef Susanna Foo",
-        "likes":"303",
-        "years-of-experience":"8 years",
-        "number-of-recipe":"139",
-        "chefs-bio":"Chef Susanna Foo was born in Guangzhou, China, and began cooking at the age of 12. His father was in the restaurant business and Yan picked up the culinary arts through the family. He went to college in Hong Kong to earn a degree in culinary arts."
+        "category_id":"3",
+        "chefs_img":"https://imagizer.imageshack.com/img924/8836/7UOxCN.png",
+        "name":"Chef Ken Hom",
+        "likes":"303 ",
+        "years_of_experience":"8 years of cooking experience",
+        "number_of_recipe":"139 recipes",
+        "details":"Ken Hom OBE born May 3, 1949 is a Chinese-American chef, author and television-show presenter for the BBC, specialising in Chinese Cuisine. In 2009 he was appointed honorary Officer of the Order of the British Empire (OBE) for services to culinary arts",
+        "recipes":[
+            {
+                "_id":"01",
+                "recipe_name":"Kung Pao Chicken",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"one lbs boneless skinless chicken thighs or breasts, cut into one inch cubes one Tbsp cooking oil one Tbsp cooking sherry tow Tbsp soy sauce tow Tbsp corn starch",
+                "recipe_img":"https://imagizer.imageshack.com/img923/4348/bMtLez.jpg"
+            },
+            {
+                "_id":"02",
+                "recipe_name":"Baja Fish Tacos",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"cups flour  beer chili powder garlic powder cumin blackpepper oil for frying tortillas avocado pico de gallo chipotle mayo",
+                "recipe_img":"https://imagizer.imageshack.com/img924/4265/fSMMW5.jpg"
+            },
+            {
+                "_id":"03",
+                "recipe_name":"Creamy Lemon Chicken",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"one lbs boneless skinless chicken thighs or breasts, cut into one inch cubes one Tbsp cooking oil one Tbsp cooking sherry tow Tbsp soy sauce tow Tbsp corn starch",
+                "recipe_img":"https://imagizer.imageshack.com/img923/7132/ZKMonn.jpg"
+            }
+        ]
+
 
     },
 
     { 
         "id":"11224",
-        "chefs-img":"https://ibb.co/Gcwh23g",
-        "name":"Chef Cecilia Chiang",
-        "likes":"503",
-        "years-of-experience":"11 years",
-        "number-of-recipe":"169",
-        "chefs-bio":"Chef Cecilia Chiang was born in Guangzhou, China, and began cooking at the age of 12. His father was in the restaurant business and Yan picked up the culinary arts through the family. He went to college in Hong Kong to earn a degree in culinary arts."
+        "category_id":"4",
+        "chefs_img":"https://imagizer.imageshack.com/img923/1996/tIWRQc.jpg",
+        "name":"Chef Danny Bowien ",
+        "likes":"503 ",
+        "years_of_experience":"11 years of cooking experience",
+        "number_of_recipe":"169 recipes",
+        "details":"Danny Bowien born in 1982 is a chef and restaurateur. He is the founder and owner of Mission Chinese Food in New York City and Brooklyn and co-founder of Mission Chinese Food in San Francisco, California. Bowien is a James Beard Award winner, and the main subject of season six of the food and travel show The Mind of a Chef. born in 1982 is a chef and restaurateur. He is the founder and owner of Mission Chinese Food in New York City and Brooklyn and co-founder of Mission Chinese Food in San Francisco, California. Bowien is a James Beard Award winner, and the main subject of season six of the food and travel show The Mind of a Chef.",
+        "recipes":[
+            {
+                "_id":"01",
+                "recipe_name":"Kung Pao Chicken",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"one lbs boneless skinless chicken thighs or breasts, cut into one inch cubes one Tbsp cooking oil one Tbsp cooking sherry tow Tbsp soy sauce tow Tbsp corn starch",
+                "recipe_img":"https://imagizer.imageshack.com/img923/4348/bMtLez.jpg"
+            },
+            {
+                "_id":"02",
+                "recipe_name":"Baja Fish Tacos",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"cups flour  beer chili powder garlic powder cumin blackpepper oil for frying tortillas avocado pico de gallo chipotle mayo",
+                "recipe_img":"https://imagizer.imageshack.com/img924/4265/fSMMW5.jpg"
+            },
+            {
+                "_id":"03",
+                "recipe_name":"Creamy Lemon Chicken",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"one lbs boneless skinless chicken thighs or breasts, cut into one inch cubes one Tbsp cooking oil one Tbsp cooking sherry tow Tbsp soy sauce tow Tbsp corn starch",
+                "recipe_img":"https://imagizer.imageshack.com/img923/7132/ZKMonn.jpg"
+            }
+        ]
+
 
     },
 
     { 
         "id":"11225",
-        "chefs-img":"https://ibb.co/2SvZyFG",
+        "category_id":"5",
+        "chefs_img":"https://imagizer.imageshack.com/img922/6893/2mheoN.jpg",
         "name":"Chef Danny Bowien",
         "likes":"333",
-        "years-of-experience":"3 years",
-        "number-of-recipe":"189",
-        "chefs-bio":"Chef Danny Bowien was born in Guangzhou, China, and began cooking at the age of 12. His father was in the restaurant business and Yan picked up the culinary arts through the family. He went to college in Hong Kong to earn a degree in culinary arts."
+        "years_of_experience":"3 years of cooking experience",
+        "number_of_recipe":"189 recipes",
+        "details":"Chef Danny Bowien was born in Guangzhou, China, and began cooking at the age of 12. His father was in the restaurant business and Yan picked up the culinary arts through the family. He went to college in Hong Kong to earn a degree in culinary arts.",
+        "recipes":[
+            {
+                "_id":"01",
+                "recipe_name":"Kung Pao Chicken",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"one lbs boneless skinless chicken thighs or breasts, cut into one inch cubes one Tbsp cooking oil one Tbsp cooking sherry tow Tbsp soy sauce tow Tbsp corn starch",
+                "recipe_img":"https://imagizer.imageshack.com/img923/4348/bMtLez.jpg"
+            },
+            {
+                "_id":"02",
+                "recipe_name":"Baja Fish Tacos",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"cups flour  beer chili powder garlic powder cumin blackpepper oil for frying tortillas avocado pico de gallo chipotle mayo",
+                "recipe_img":"https://imagizer.imageshack.com/img924/4265/fSMMW5.jpg"
+            },
+            {
+                "_id":"03",
+                "recipe_name":"Creamy Lemon Chicken",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"one lbs boneless skinless chicken thighs or breasts, cut into one inch cubes one Tbsp cooking oil one Tbsp cooking sherry tow Tbsp soy sauce tow Tbsp corn starch",
+                "recipe_img":"https://imagizer.imageshack.com/img923/7132/ZKMonn.jpg"
+            }
+        ]
+
 
     },
 
     { 
         "id":"11226",
-        "chefs-img":"https://ibb.co/HhNWRQQ",
-        "name":"Chef Kylie Kwong",
-        "likes":"413",
-        "years-of-experience":"9 years",
-        "number-of-recipe":"87",
-        "chefs-bio":"Chef Kylie Kwong was born in Guangzhou, China, and began cooking at the age of 12. His father was in the restaurant business and Yan picked up the culinary arts through the family. He went to college in Hong Kong to earn a degree in culinary arts."
+        "category_id":"6",
+        "chefs_img":"https://imagizer.imageshack.com/img924/558/ymIUjS.jpg",
+        "name":"Chef  Martin Yan",
+        "likes":"403",
+        "years_of_experience":"9 years of cooking experience",
+        "number_of_recipe":"87 recipes",
+        "details":"Martin Yan was born in Guangzhou, Republic of China, to a restaurateur father and a grocer mother. Yan began to cook at the age of 12. He moved to Hong Kong when he was 13, and later attended the Munsang College in Kowloon City. During this time in Munsang College, he worked at his uncle's Chinese restaurant and learned the traditional method of Chinese barbecue. He received a diploma from the Overseas Institute of Cookery of Hong Kong and later left for Canada for continued study. Ten years after his arrival in North America, Yan received a Master of Science degree in food science from University of California, Davis, in 1975.",
+        "recipes":[
+            {
+                "_id":"01",
+                "recipe_name":"Kung Pao Chicken",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"one lbs boneless skinless chicken thighs or breasts, cut into one inch cubes one Tbsp cooking oil one Tbsp cooking sherry tow Tbsp soy sauce tow Tbsp corn starch",
+                "recipe_img":"https://imagizer.imageshack.com/img923/4348/bMtLez.jpg"
+            },
+            {
+                "_id":"02",
+                "recipe_name":"Baja Fish Tacos",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"cups flour  beer chili powder garlic powder cumin blackpepper oil for frying tortillas avocado pico de gallo chipotle mayo",
+                "recipe_img":"https://imagizer.imageshack.com/img924/4265/fSMMW5.jpg"
+            },
+            {
+                "_id":"03",
+                "recipe_name":"Creamy Lemon Chicken",
+                "cooking_method":"first  marinates mix sauce and dice vegetables heat a large skillet or wok over high heat add tow tb cooking oil then fry chicken for three_five minutes stirring occasionally once it begins to brown remove from pan and set aside Add remaining cooking oil ginger garlic chiliflex peppers and bell peppers. Fry for  minute stirring frequently add sauce  bring to boil. Once it begins to thicken add chicken mix everything nicely for about  minutes Add peanuts green onions and sesame oil simmer for about  minutes.Serve with rice.",
+
+                "ingredient":"one lbs boneless skinless chicken thighs or breasts, cut into one inch cubes one Tbsp cooking oil one Tbsp cooking sherry tow Tbsp soy sauce tow Tbsp corn starch",
+                "recipe_img":"https://imagizer.imageshack.com/img923/7132/ZKMonn.jpg"
+            }
+        ]
 
     }
 ]
