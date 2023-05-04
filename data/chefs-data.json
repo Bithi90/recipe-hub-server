@@ -1,0 +1,68 @@
+
+[
+    { 
+        "id":"11221",
+        "chefs-img":"https://ibb.co/YDP0Wnw",
+        "name":"Chef Martin Yan",
+        "likes":"435",
+        "years-of-experience":"12 years",
+        "number-of-recipe":"109",
+        "chefs-bio":"Martin Yan was born in Guangzhou, China, and began cooking at the age of 12. His father was in the restaurant business and Yan picked up the culinary arts through the family. He went to college in Hong Kong to earn a degree in culinary arts."
+
+    },
+
+    { 
+        "chefs-img":"https://ibb.co/C55QY0H",
+        "name":"Chef Ken Hom",
+        "id":"11222",
+        "likes":"403",
+        "years-of-experience":"7 years",
+        "number-of-recipe":"129",
+        "chefs-bio":"Chef Ken Hom was born in Guangzhou, China, and began cooking at the age of 12. His father was in the restaurant business and Yan picked up the culinary arts through the family. He went to college in Hong Kong to earn a degree in culinary arts."
+
+    },
+
+    { 
+        "id":"11223",
+        "chefs-img":"https://ibb.co/jHYTnMT",
+        "name":"Chef Susanna Foo",
+        "likes":"303",
+        "years-of-experience":"8 years",
+        "number-of-recipe":"139",
+        "chefs-bio":"Chef Susanna Foo was born in Guangzhou, China, and began cooking at the age of 12. His father was in the restaurant business and Yan picked up the culinary arts through the family. He went to college in Hong Kong to earn a degree in culinary arts."
+
+    },
+
+    { 
+        "id":"11224",
+        "chefs-img":"https://ibb.co/Gcwh23g",
+        "name":"Chef Cecilia Chiang",
+        "likes":"503",
+        "years-of-experience":"11 years",
+        "number-of-recipe":"169",
+        "chefs-bio":"Chef Cecilia Chiang was born in Guangzhou, China, and began cooking at the age of 12. His father was in the restaurant business and Yan picked up the culinary arts through the family. He went to college in Hong Kong to earn a degree in culinary arts."
+
+    },
+
+    { 
+        "id":"11225",
+        "chefs-img":"https://ibb.co/2SvZyFG",
+        "name":"Chef Danny Bowien",
+        "likes":"333",
+        "years-of-experience":"3 years",
+        "number-of-recipe":"189",
+        "chefs-bio":"Chef Danny Bowien was born in Guangzhou, China, and began cooking at the age of 12. His father was in the restaurant business and Yan picked up the culinary arts through the family. He went to college in Hong Kong to earn a degree in culinary arts."
+
+    },
+
+    { 
+        "id":"11226",
+        "chefs-img":"https://ibb.co/HhNWRQQ",
+        "name":"Chef Kylie Kwong",
+        "likes":"413",
+        "years-of-experience":"9 years",
+        "number-of-recipe":"87",
+        "chefs-bio":"Chef Kylie Kwong was born in Guangzhou, China, and began cooking at the age of 12. His father was in the restaurant business and Yan picked up the culinary arts through the family. He went to college in Hong Kong to earn a degree in culinary arts."
+
+    }
+]

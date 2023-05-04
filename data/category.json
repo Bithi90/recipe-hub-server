@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+        "name":"Cereals"
+    },
+    {
+        "id":"2",
+        "name":"Raw Food"
+    },
+    {
+        "id":"3",
+        "name":"snacks"
+    },
+    {
+        "id":"4",
+        "name":"Meat"
+    },
+    {
+        "id":"5",
+        "name":"Main Dish"
+    },
+    {
+        "id":"6",
+        "name":"Desserts"
+    }
+]
